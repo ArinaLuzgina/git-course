@@ -1,2 +1,2 @@
-#Git and Github Course
-Crash Course for git
+#Git and Github
+Ничего важного, просто эксперименты с гит
